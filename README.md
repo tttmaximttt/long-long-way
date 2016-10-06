@@ -17,15 +17,15 @@
 
 ## Table of Contents
 
-<!--- [What is it?](#what-is-it)-->
-<!--- [Why use it?](#why-use-it)-->
-<!--- [How to use it](#how-to-use-it)-->
-<!--- [Get in a Googley Mood](#get-in-a-googley-mood)-->
-<!--- [Did I Get the Job?](#did-i-get-the-job)-->
-<!--- [Follow Along with Me](#follow-along-with-me)-->
-<!--- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)-->
-<!--- [About Video Resources](#about-video-resources)-->
-<!--- [Interview Process & General Interview Prep](#interview-process--general-interview-prep)-->
+<!--- [What is it?](#what-is-it)
+- [Why use it?](#why-use-it)
+- [How to use it](#how-to-use-it)
+- [Get in a Googley Mood](#get-in-a-googley-mood)
+- [Did I Get the Job?](#did-i-get-the-job)
+- [Follow Along with Me](#follow-along-with-me)
+- [Don't feel you aren't smart enough](#dont-feel-you-arent-smart-enough)
+- [About Video Resources](#about-video-resources)
+- [Interview Process & General Interview Prep](#interview-process--general-interview-prep)-->
 - [Prerequisite Knowledge](#prerequisite-knowledge)
 - [The Daily Plan](#the-daily-plan)
 - [Algorithmic complexity / Big-O / Asymptotic analysis](#algorithmic-complexity--big-o--asymptotic-analysis)
@@ -102,120 +102,122 @@
 - [Video Series](#video-series)
 - [Once You've Got The Job](#once-youve-got-the-job)
 
-<!------->
+---
+<!--
 
-<!--## Why use it?-->
+## Why use it?
 
-<!--I'm following this plan to prepare for my Google interview. I've been building the web, building-->
-<!--services, and launching startups since 1997. I have an economics degree, not a CS degree.  I've-->
-<!--been very successful in my career, but I want to work at Google. I want to progress into larger systems-->
-<!--and get a real understanding of computer systems, algorithmic efficiency, data structure performance,-->
-<!--low-level languages, and how it all works. And if you don't know any of it, Google won't hire you.-->
+I'm following this plan to prepare for my Google interview. I've been building the web, building
+services, and launching startups since 1997. I have an economics degree, not a CS degree.  I've
+been very successful in my career, but I want to work at Google. I want to progress into larger systems
+and get a real understanding of computer systems, algorithmic efficiency, data structure performance,
+low-level languages, and how it all works. And if you don't know any of it, Google won't hire you.
 
-<!--When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to-->
-<!--traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.-->
-<!--Every data structure I've ever used was built into the language, and I didn't know how they worked-->
-<!--under the hood at all. I've never had to manage memory, unless a process I was running would give an "out of-->
-<!--memory" error, and then I'd have to find a workaround. I've used a few multi-dimensional arrays in my life and-->
-<!--thousands of associative arrays, but I've never created data structures from scratch.-->
+When I started this project, I didn't know a stack from a heap, didn't know Big-O anything, anything about trees, or how to
+traverse a graph. If I had to code a sorting algorithm, I can tell ya it wouldn't have been very good.
+Every data structure I've ever used was built into the language, and I didn't know how they worked
+under the hood at all. I've never had to manage memory, unless a process I was running would give an "out of
+memory" error, and then I'd have to find a workaround. I've used a few multi-dimensional arrays in my life and
+thousands of associative arrays, but I've never created data structures from scratch.
 
-<!--But after going through this study plan I have high confidence I'll be hired. It's a long plan. It's going to take me-->
-<!--months. If you are familiar with a lot of this already it will take you a lot less time.-->
+But after going through this study plan I have high confidence I'll be hired. It's a long plan. It's going to take me
+months. If you are familiar with a lot of this already it will take you a lot less time.
 
-<!--## How to use it-->
+## How to use it
 
-<!--Everything below is an outline, and you should tackle the items in order from top to bottom.-->
+Everything below is an outline, and you should tackle the items in order from top to bottom.
 
-<!--I'm using Github's special markdown flavor, including tasks lists to check my progress.-->
+I'm using Github's special markdown flavor, including tasks lists to check my progress.
 
-<!--I check each task box at the beginning of a line when I'm done with it. When all sub-items in a block are done,-->
-<!--I put [ ] at the top level, meaning the entire block is done. Sorry you have to remove all my [ ] markings-->
-<!--to use this the same way. If you search/replace, just replace [ ] with [ ].-->
-<!--Sometimes I just put a [ ] at top level if I know I've done all the subtasks, to cut down on clutter.-->
+I check each task box at the beginning of a line when I'm done with it. When all sub-items in a block are done,
+I put [ ] at the top level, meaning the entire block is done. Sorry you have to remove all my [ ] markings
+to use this the same way. If you search/replace, just replace [ ] with [ ].
+Sometimes I just put a [ ] at top level if I know I've done all the subtasks, to cut down on clutter.
 
-<!--More about Github flavored markdown: https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown-->
+More about Github flavored markdown: https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown
 
-    <!--I have a friendly referral already to get my resume in at Google. Thanks JP.-->
+    I have a friendly referral already to get my resume in at Google. Thanks JP.
 
-<!--## Get in a Googley Mood-->
+## Get in a Googley Mood
 
-<!--Print out a "[future Googler](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)" sign (or two) and keep your eyes on the prize.-->
+Print out a "[future Googler](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)" sign (or two) and keep your eyes on the prize.
 
-<!--[![future Googler sign](https://dng5l3qzreal6.cloudfront.net/2016/Oct/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)-->
+[![future Googler sign](https://dng5l3qzreal6.cloudfront.net/2016/Oct/Screen_Shot_2016_10_04_at_10_13_24_AM-1475601104364.png)](https://github.com/jwasham/google-interview-university/blob/master/extras/future-googler.pdf)
 
-<!--## Did I Get the Job?-->
+## Did I Get the Job?
 
-<!--I haven't applied yet.-->
+I haven't applied yet.
 
-<!--I still have a few days in the learning phase (finishing up this crazy list), and starting next week all -->
-<!--I'll be doing is programming questions all day long. That will continue for a few weeks, and then I'll-->
-<!--apply through a referral I've been holding onto since February (yes, February).-->
+I still have a few days in the learning phase (finishing up this crazy list), and starting next week all 
+I'll be doing is programming questions all day long. That will continue for a few weeks, and then I'll
+apply through a referral I've been holding onto since February (yes, February).
 
-<!--In a couple of days I'll remove the checks from all the checkboxes. This started out as just a simple to-do list. :)-->
+In a couple of days I'll remove the checks from all the checkboxes. This started out as just a simple to-do list. :)
 
-<!--## Follow Along with Me-->
+## Follow Along with Me
 
-<!--I'm on the journey, too. Follow along on my blog at [GoogleyAsHeck.com](https://googleyasheck.com/)-->
+I'm on the journey, too. Follow along on my blog at [GoogleyAsHeck.com](https://googleyasheck.com/)
 
-<!--- Twitter: [@googleyasheck](https://twitter.com/googleyasheck)-->
-<!--- Twitter: [@StartupNextDoor](https://twitter.com/StartupNextDoor)-->
-<!--- Google+: [+Googleyasheck](https://plus.google.com/+Googleyasheck)-->
-<!--- LinkedIn: [johnawasham](https://www.linkedin.com/in/johnawasham)-->
+- Twitter: [@googleyasheck](https://twitter.com/googleyasheck)
+- Twitter: [@StartupNextDoor](https://twitter.com/StartupNextDoor)
+- Google+: [+Googleyasheck](https://plus.google.com/+Googleyasheck)
+- LinkedIn: [johnawasham](https://www.linkedin.com/in/johnawasham)
 
-<!--![John Washam - Google Interview University](https://dng5l3qzreal6.cloudfront.net/2016/Aug/book_stack_photo_resized_18_1469302751157-1472661280368.png)-->
+![John Washam - Google Interview University](https://dng5l3qzreal6.cloudfront.net/2016/Aug/book_stack_photo_resized_18_1469302751157-1472661280368.png)
 
-<!--## Don't feel you aren't smart enough-->
-<!--- Google engineers are smart, but many have an insecurity that they aren't smart enough, even though they work at Google.-->
-<!--- The myth of the Genius Programmer: https://www.youtube.com/watch?v=0SARbwvhupQ-->
+## Don't feel you aren't smart enough
+- Google engineers are smart, but many have an insecurity that they aren't smart enough, even though they work at Google.
+- The myth of the Genius Programmer: https://www.youtube.com/watch?v=0SARbwvhupQ
 
-<!--## About Video Resources-->
+## About Video Resources
 
-<!--Some videos are available only by enrolling in a Coursera or EdX class. It is free to do so, but sometimes the classes-->
-<!--are no longer in session so you have to wait a couple of months, so you have no access. I'm going to be adding more videos-->
-<!--from public sources and replacing the online course videos over time. I like using university lectures.-->
+Some videos are available only by enrolling in a Coursera or EdX class. It is free to do so, but sometimes the classes
+are no longer in session so you have to wait a couple of months, so you have no access. I'm going to be adding more videos
+from public sources and replacing the online course videos over time. I like using university lectures.
 
-<!--## Interview Process & General Interview Prep-->
+## Interview Process & General Interview Prep
 
-<!--- [ ] Videos:-->
-    <!--- [ ] https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be-->
-    <!--- [ ] https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be-->
-    <!--- [ ] https://www.youtube.com/watch?v=8npJLXkcmu8-->
+- [ ] Videos:
+    - [ ] https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be
+    - [ ] https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be
+    - [ ] https://www.youtube.com/watch?v=8npJLXkcmu8
 
-<!--- [ ] Articles:-->
-    <!--- [ ] http://www.google.com/about/careers/lifeatgoogle/hiringprocess/-->
-    <!--- [ ] http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html-->
-        <!--- all the things he mentions that you need to know are listed below-->
-    <!--- [ ] _(very dated)_ http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html-->
-    <!--- [ ] http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions-->
+- [ ] Articles:
+    - [ ] http://www.google.com/about/careers/lifeatgoogle/hiringprocess/
+    - [ ] http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
+        - all the things he mentions that you need to know are listed below
+    - [ ] _(very dated)_ http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html
+    - [ ] http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
 
-<!--- [ ] Additional (not suggested by Google but I added):-->
-    <!--- [ ] https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4-->
-    <!--- [ ] https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx-->
-    <!--- [ ] https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1-->
-    <!--- [ ] http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture-->
-    <!--- [ ] http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/-->
-    <!--- [ ] Cracking The Coding Interview Set 1:-->
-        <!--- [ ] https://www.youtube.com/watch?v=rEJzOhC5ZtQ-->
-        <!--- [ ] https://www.youtube.com/watch?v=aClxtDcdpsQ-->
-    <!--- [ ] How to Get a Job at the Big 4:-->
-        <!--- [ ] https://www.youtube.com/watch?v=YJZCUhxNCv8-->
-    <!--- [ ] http://alexbowe.com/failing-at-google-interviews/-->
+- [ ] Additional (not suggested by Google but I added):
+    - [ ] https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4
+    - [ ] https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx
+    - [ ] https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1
+    - [ ] http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture
+    - [ ] http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/
+    - [ ] Cracking The Coding Interview Set 1:
+        - [ ] https://www.youtube.com/watch?v=rEJzOhC5ZtQ
+        - [ ] https://www.youtube.com/watch?v=aClxtDcdpsQ
+    - [ ] How to Get a Job at the Big 4:
+        - [ ] https://www.youtube.com/watch?v=YJZCUhxNCv8
+    - [ ] http://alexbowe.com/failing-at-google-interviews/
 
+-->
 
-<!--## Prerequisite Knowledge-->
+## Prerequisite Knowledge
 
-<!--This short section were prerequisites/interesting info I wanted to learn before getting started on the daily plan.-->
+This short section were prerequisites/interesting info I wanted to learn before getting started on the daily plan.
 
-<!--You can use a language you are comfortable in to do the coding part of the interview, but for Google, these are solid choices:-->
+You can use a language you are comfortable in to do the coding part of the interview, but for Google, these are solid choices:
 
-<!--- C++-->
-<!--- Java-->
-<!--- Python-->
+- C++
+- Java
+- Python
 
-<!--You need to be very comfortable in the language, and be knowledgeable. Read more (rescued from the lost web):-->
-    <!--- https://web.archive.org/web/20160204193730/http://blog.codingforinterviews.com/best-programming-language-jobs/-->
+You need to be very comfortable in the language, and be knowledgeable. Read more (rescued from the lost web):
+    - https://web.archive.org/web/20160204193730/http://blog.codingforinterviews.com/best-programming-language-jobs/
 
-<!--You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.-->
+You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
 - [ ] **How computers process a program:**
     - [ ] https://www.youtube.com/watch?v=42KTvGYQYnA
